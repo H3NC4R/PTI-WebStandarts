@@ -1,9 +1,7 @@
-# PTI-WebStandarts
+# PTI (Produção Textual Individual) - WebStandarts
 
-DISCIPLINA
-WEB STANDARDS
-PROFESSOR(ES) AUTOR(ES)
-BRUNO DE OLIVEIRA
+DISCIPLINA: WEB STANDARDS
+PROFESSOR(ES)/ AUTOR(ES): BRUNO DE OLIVEIRA
 
 
 <h1>Enunciado</h1>
@@ -20,25 +18,18 @@ se interesse e entre em contato com a empresa. Seu contratante pediu para
 que você deixasse essa página responsiva, de tal forma que possa ser
 acessada pelo celular também. Você deve utilizar as Linguagens HTML,
 CSS e FLEXBOX para contemplar a tarefa.
-Essa PTI possui duas etapas:
-Primeira Parte
+
+<h3>Essa PTI possui duas etapas:</h3>
+
+<h2>Primeira Parte</h2>
 Selecione um ramo de negócio de pequeno porte e realizar uma
 prototipação da página. A sugestão é escolher uma área para autônomos,
 como por exemplo: Pintor, Marceneiro, Psicólogo, Nutricionista, Personal,
 Artistas, Vendedores, Professor de Idioma, etc.
-Segunda Parte
+
+<h2>Segunda Parte</h2>
 Implementar o site utilizando as linguagens HTML e CSS puros e aplicar
 técnicas de reprodução de layout responsivo.
-Senac EAD
-Produção Textual Individual
-Senac São Paulo – Todos os Direitos Reservados 2
-Orientações Gerais
-Orientação de Entrega
-Esta atividade deverá ser entregue no item Produção Textual Individual
-do menu principal.
-Prazo de Entrega
-Consultar o calendário de atividades
-Forma de Entrega
-Você deve publicar o site em uma plataforma de hospedagem gratuita
-(exemplo Netlify), e enviar o projeto completo no formato .ZIP junto ao link
-do site publicado
+
+
+
