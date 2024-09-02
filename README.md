@@ -32,4 +32,7 @@ Implementar o site utilizando as linguagens HTML e CSS puros e aplicar
 técnicas de reprodução de layout responsivo.
 
 
+<h1>Produção: Site para empresa de produtos e serviços de limpeza WIPECLEAN</h1>
+ Anexado a este projeto está o repositório raiz  do Index da pagina, bem como as subpaginas do projeto para demonstrar funcionalidade e navegação do projeto.
+
 
